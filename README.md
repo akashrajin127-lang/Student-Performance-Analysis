@@ -111,3 +111,9 @@ Project Structure
 main.py                        # Main analysis script
 notebook.ipynb                 # Jupyter Notebook for interactive exploration
 README.md                      # Project documentation
+
+<img width="562" height="468" alt="image" src="https://github.com/user-attachments/assets/430d1624-4469-48e0-a5bd-6509a4d4258f" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/9a366ec3-7efd-40fb-bbed-4ddcffcf4c43" />
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/2a336862-5cee-45e8-b6d5-aa0984f4dd9e" />
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/72551ddb-ae85-4b12-a50d-0a45f621ae1f" />
+
